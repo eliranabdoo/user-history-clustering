@@ -1,0 +1,4 @@
+*.csv
+*.docs
+*.rar
+results/**/*
